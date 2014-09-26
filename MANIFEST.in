@@ -1,0 +1,2 @@
+include LICENSE AUTHORS.rst README.rst
+recursive-include geolocation *.html *.txt *.xml *.po *.mo *.js *.dbf *.prj *.sbn *.sbx *.shp *.shx
